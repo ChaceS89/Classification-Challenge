@@ -1,1 +1,3 @@
 # Classification-Challenge
+Let's say you work at an Internet Service Provider (ISP) and you've been tasked with improving the email filtering system for its customers. You've been provided with a dataset that contains information about emails, with two possible classifications: spam and not spam. The ISP wants you to take this dataset and develop a supervised machine learning (ML) model that will accurately detect spam emails so it can filter them out of its customers' inboxes.
+I have created two classification models to fit the provided data, and evaluate which model is more accurate at detecting spam. The model created is a logistic regression model and a random forest model.
